@@ -17,6 +17,9 @@ SSL & HTTPS: Configured SSL certificates via AWS Certificate Manager for secure 
 DNS Mapping: Mapped ELB endpoints to domain names via GoDaddy DNS.
 Tech Stack: AWS (EC2, S3, ALB, Route 53, IAM, Auto Scaling, RDS), Tomcat, Memcached, RabbitMQ, MySQL, Bash Scripting, Security Groups, DNS Management.
 
+![aws stack 1](https://github.com/user-attachments/assets/4a22a4e1-8e89-4884-9f1d-3436502e05b5)
+
+
 # Prerequisites
 #
 - JDK 11 
